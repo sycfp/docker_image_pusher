@@ -1,1 +1,1 @@
-immich_server
+ghcr.io/immich-app/immich-server
